@@ -42,5 +42,3 @@ Welcome to my Github page! I'm Emerson and I'm currently in high school!
 ---
 
 ### Studying...
-
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
