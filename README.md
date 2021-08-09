@@ -9,8 +9,8 @@ Welcome to my Github page! I'm Emerson and I'm currently in high school!
 ### Things to know about me!
 
 <div class="flex-container">
-  <img alt="Ermeson Sampaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ermesonsampaio&show_icons=true&theme=tokyonight" align="right" width="450px"/>
-  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ermesonsampaio&theme=tokyonight" width="450px"/>
+  <img alt="Ermeson Sampaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ermesonsampaio&show_icons=true&theme=tokyonight" align="right" width="400px"/>
+  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ermesonsampaio&theme=tokyonight" width="400px"/>
 </div>
 
 ---
