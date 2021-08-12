@@ -8,10 +8,7 @@ Welcome to my Github page! I'm Emerson and I'm currently in high school!
 
 ### Things to know about me!
 
-<div class="flex-container">
-  <img alt="Ermeson Sampaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ermesonsampaio&show_icons=true&theme=tokyonight" align="right" width="400px"/>
-  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ermesonsampaio&theme=tokyonight" width="400px"/>
-</div>
+<img alt="Ermeson Sampaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ermesonsampaio&show_icons=true&theme=tokyonight"/>
 
 ---
 
@@ -40,10 +37,5 @@ Welcome to my Github page! I'm Emerson and I'm currently in high school!
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-
----
-
-### Studying...
-
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
